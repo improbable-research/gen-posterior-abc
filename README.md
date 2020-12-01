@@ -1,4 +1,4 @@
-# gen-posterior-abc
+# Generalized posteriors in ABC
 
 Code for the experiments in [_Generalized Posteriors in Approximate Bayesian Computation_ ](https://arxiv.org/abs/2011.08644).
 
